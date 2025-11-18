@@ -1,6 +1,3 @@
-# Bouncing Balls Program
-# Step 7/7: Multiple balls
-# Lai Programming - Watch Full Tutorial: https://youtu.be/W9fdczla2ds
 import pygame
 import numpy as np
 import math
